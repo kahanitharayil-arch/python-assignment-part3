@@ -483,3 +483,12 @@ try:
 
 except FileNotFoundError:
     print("Log file not found.")
+
+# Conclusion:
+# In this assignment, various Python features were involved, such as file handling,
+# using API, exception handling, and logging. First, I performed the creation and editing
+# of a file, followed by reading and adding keyword searching ability to it.
+# Then, I utilized the API and used it to get and print out the products,
+# including sorting and filtering those products. Then, error handling was also done
+# to ensure that the program is not prone to crashes. Lastly, I also included
+# logging, which enables error messages to be logged into a file for future use.
